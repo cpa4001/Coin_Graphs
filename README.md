@@ -1,4 +1,4 @@
-# Coin_Graphs
+# Centz
 
 A react-flask based web application to provide a platform for providing real-time data on cryptocurrencey. This web app focuses on helping find the top current crypto and visualize trends using the Google Charts API
 
@@ -28,6 +28,7 @@ This project is not under any liscence at the moment.
 - https://developers.coinranking.com/api/documentation
 - https://developers.google.com/chart
 - https://medium.com/wealthy-bytes/the-easiest-way-to-use-a-python-virtual-environment-with-git-401e07c39cde
+- https://www.youtube.com/watch?v=h96KP3JMX7Q&t=1258s
 
 <!-- Markdown Links and Images -->
 
